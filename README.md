@@ -6,5 +6,7 @@
 
 [Quantum risk analysis](https://www.nature.com/articles/s41534-019-0130-6)
 
+[Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
+
 https://github.com/noisyoscillator/qiskit-aqua
 

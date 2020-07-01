@@ -10,3 +10,6 @@
 
 https://github.com/noisyoscillator/qiskit-aqua
 
+[Quantum Annealing: A New Method for Minimizing Multidimensional Functions](https://arxiv.org/abs/chem-ph/9404003)
+
+[
